@@ -1,5 +1,19 @@
+@font-face {
+    font-family: gotham-round-bold;
+    src: url('./fonts/GothamRnd-Bold.otf') format('opentype');
+}
+@font-face {
+    font-family: gotham-round-book;
+    src: url('./fonts/GothamRounded-Book.otf') format('opentype');
+}
+
+h1 {
+  font-family: gotham-round-book;
+  text-transform: uppercase;
+}
 div {
   h4 {
     font-size: 28px;
+    font-family: gotham-round-book;
   }
 }

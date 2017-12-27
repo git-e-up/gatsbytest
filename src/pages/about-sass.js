@@ -16,7 +16,7 @@ const User = props => (
 
 export default () => (
   <Container>
-    <h1>About Styled Components</h1>
+    <h1>Hotel Info</h1>
     <p>Styled Components is cool</p>
     <User
       username="Jane Doe"
